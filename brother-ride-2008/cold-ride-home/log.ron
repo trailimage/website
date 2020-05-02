@@ -1,0 +1,80 @@
+(
+    next_path: Some("atlanta-loop"),
+    prev_path: Some("brother-ride-2008/camping-with-cows"),
+    happened_on: Some("2008-09-21T09:15:19-06:00"),
+    as_of: 1588351084,
+    photo_count: 16,
+    photo_locations: [
+        (-116.9921, 46.4616),
+        (-116.295166, 45.12467),
+        (-116.2369, 45.839504),
+        (-116.236305, 45.839245),
+    ],
+    cover_photo: Some((
+        index: 10,
+        size: (
+            large: (width:1499,height:2048,url:"brother-ride-2008/cold-ride-home/010_l.webp",),
+            medium: (width:750,height:1024,url:"brother-ride-2008/cold-ride-home/010_m.webp",),
+            small: (width:234,height:320,url:"brother-ride-2008/cold-ride-home/010_s.webp",),
+            thumb: (width:256,height:256,url:"brother-ride-2008/cold-ride-home/010_t.webp",),
+        ),
+    )),
+    tags: {
+        "rain": (
+            name: "Rain",
+            photos: [1,2,3,6,8,9,10,11,],
+        ),
+        "honda-crf-230l": (
+            name: "Honda CRF 230L",
+            photos: [2,6,9,10,12,],
+        ),
+        "camping": (
+            name: "Camping",
+            photos: [1,],
+        ),
+        "cooking": (
+            name: "Cooking",
+            photos: [4,8,],
+        ),
+        "fire": (
+            name: "Fire",
+            photos: [1,2,3,7,],
+        ),
+        "motorcycle": (
+            name: "Motorcycle",
+            photos: [2,6,9,10,11,12,13,14,16,],
+        ),
+        "axe": (
+            name: "Axe",
+            photos: [5,],
+        ),
+        "tent": (
+            name: "Tent",
+            photos: [1,2,6,],
+        ),
+        "beer": (
+            name: "Beer",
+            photos: [5,7,],
+        ),
+        "tool": (
+            name: "Tool",
+            photos: [5,],
+        ),
+        "yamaha-xt-250": (
+            name: "Yamaha XT 250",
+            photos: [9,11,],
+        ),
+        "horse": (
+            name: "Horse",
+            photos: [12,],
+        ),
+        "power-line": (
+            name: "Power Line",
+            photos: [12,],
+        ),
+        "bmw-r1200gs-adventure": (
+            name: "BMW R1200GS Adventure",
+            photos: [2,6,9,13,14,16,],
+        ),
+    },
+)

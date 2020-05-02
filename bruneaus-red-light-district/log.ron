@@ -1,0 +1,184 @@
+(
+    next_path: None,
+    prev_path: Some("boiling-over"),
+    happened_on: Some("2019-03-29T16:58:56-06:00"),
+    as_of: 1588351084,
+    photo_count: 33,
+    photo_locations: [
+        (-116.234604, 43.375103),
+        (-115.98673, 43.214684),
+        (-115.93737, 43.016342),
+        (-115.937355, 43.016376),
+        (-115.91904, 43.002586),
+        (-115.91904, 43.002586),
+        (-115.91904, 43.002586),
+        (-115.91904, 43.002586),
+        (-115.90026, 42.989075),
+        (-115.90006, 42.98985),
+        (-115.89282, 42.988594),
+        (-115.89282, 42.988594),
+        (-115.89025, 42.99109),
+        (-115.87906, 42.991272),
+        (-115.69988, 42.885418),
+        (-115.699165, 42.885197),
+        (-115.698845, 42.885723),
+        (-115.69846, 42.887337),
+        (-115.69619, 42.889343),
+        (-115.69415, 42.909885),
+        (-115.693924, 42.910397),
+        (-115.69391, 42.90986),
+        (-115.69391, 42.90986),
+        (-115.69191, 42.890186),
+        (-115.69048, 42.891644),
+        (-115.69028, 42.902348),
+        (-115.690254, 42.902374),
+        (-115.68926, 42.90209),
+        (-115.689125, 42.902),
+        (-115.68912, 42.902008),
+        (-115.68897, 42.901947),
+        (-115.68748, 42.895866),
+    ],
+    cover_photo: Some((
+        index: 3,
+        size: (
+            large: (width:2048,height:1366,url:"bruneaus-red-light-district/003_l.webp",),
+            medium: (width:1024,height:683,url:"bruneaus-red-light-district/003_m.webp",),
+            small: (width:320,height:213,url:"bruneaus-red-light-district/003_s.webp",),
+            thumb: (width:256,height:256,url:"bruneaus-red-light-district/003_t.webp",),
+        ),
+    )),
+    tags: {
+        "picnic-table": (
+            name: "Picnic Table",
+            photos: [13,20,],
+        ),
+        "tent": (
+            name: "Tent",
+            photos: [19,],
+        ),
+        "hiking": (
+            name: "Hiking",
+            photos: [23,24,28,],
+        ),
+        "fence": (
+            name: "Fence",
+            photos: [31,],
+        ),
+        "sand-dune": (
+            name: "Sand Dune",
+            photos: [18,23,24,25,26,27,28,29,30,],
+        ),
+        "lichen": (
+            name: "Lichen",
+            photos: [5,6,10,12,],
+        ),
+        "power-line": (
+            name: "Power Line",
+            photos: [31,],
+        ),
+        "tool": (
+            name: "Tool",
+            photos: [13,],
+        ),
+        "binoculars": (
+            name: "Binoculars",
+            photos: [13,],
+        ),
+        "bumot-motorcycle-luggage": (
+            name: "BUMOT Motorcycle Luggage",
+            photos: [20,],
+        ),
+        "simco-road": (
+            name: "Simco Road",
+            photos: [31,],
+        ),
+        "reservoir": (
+            name: "Reservoir",
+            photos: [3,4,5,8,11,],
+        ),
+        "photographing": (
+            name: "Photographing",
+            photos: [25,],
+        ),
+        "ktm-1290-super-adventure-r": (
+            name: "KTM 1290 Super Adventure R",
+            photos: [1,3,11,20,],
+        ),
+        "wire-gate": (
+            name: "Wire Gate",
+            photos: [1,2,],
+        ),
+        "cliff": (
+            name: "Cliff",
+            photos: [9,11,],
+        ),
+        "state-park": (
+            name: "State Park",
+            photos: [13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,],
+        ),
+        "gate": (
+            name: "Gate",
+            photos: [1,2,],
+        ),
+        "highway": (
+            name: "Highway",
+            photos: [31,],
+        ),
+        "telescope": (
+            name: "Telescope",
+            photos: [13,14,],
+        ),
+        "river": (
+            name: "River",
+            photos: [9,10,11,],
+        ),
+        "bruneau-dunes-state-park": (
+            name: "Bruneau Dunes State Park",
+            photos: [13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,],
+        ),
+        "stars": (
+            name: "Stars",
+            photos: [19,21,22,],
+        ),
+        "sign": (
+            name: "Sign",
+            photos: [32,],
+        ),
+        "c-j-strike-reservoir": (
+            name: "C. J. Strike Reservoir",
+            photos: [3,4,5,8,11,],
+        ),
+        "snake-river": (
+            name: "Snake River",
+            photos: [9,10,11,],
+        ),
+        "ladder": (
+            name: "Ladder",
+            photos: [13,],
+        ),
+        "motorcycle": (
+            name: "Motorcycle",
+            photos: [1,3,11,20,],
+        ),
+        "tumbleweed": (
+            name: "Tumbleweed",
+            photos: [1,2,9,15,16,17,24,29,],
+        ),
+        "dry-plant": (
+            name: "Dry Plant",
+            photos: [1,2,9,15,16,17,24,29,],
+        ),
+        "dirt-road": (
+            name: "Dirt Road",
+            photos: [9,],
+        ),
+        "gravel-road": (
+            name: "Gravel Road",
+            photos: [33,],
+        ),
+        "night": (
+            name: "Night",
+            photos: [13,14,19,20,21,22,],
+        ),
+    },
+)

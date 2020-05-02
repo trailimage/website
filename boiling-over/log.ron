@@ -1,0 +1,128 @@
+(
+    next_path: Some("bruneaus-red-light-district"),
+    prev_path: Some("atlanta-loop"),
+    happened_on: Some("2017-08-06T12:44:04-06:00"),
+    as_of: 1588351084,
+    photo_count: 22,
+    photo_locations: [
+        (-116.17306, 43.579193),
+        (-116.09958, 43.66614),
+        (-116.094894, 43.68577),
+        (-116.078735, 43.71244),
+        (-116.078735, 43.71244),
+        (-116.07861, 43.713615),
+        (-116.07858, 43.713028),
+        (-116.07853, 43.71347),
+        (-116.0785, 43.713463),
+        (-116.07849, 43.71327),
+        (-116.07696, 43.71154),
+        (-116.07599, 43.711037),
+        (-116.06774, 43.69081),
+        (-116.067696, 43.690865),
+        (-116.06756, 43.690807),
+        (-116.06753, 43.690838),
+        (-116.067024, 43.708416),
+        (-116.06611, 43.65185),
+        (-116.05562, 43.70582),
+        (-116.03976, 43.707176),
+    ],
+    cover_photo: Some((
+        index: 4,
+        size: (
+            large: (width:2048,height:1536,url:"boiling-over/004_l.webp",),
+            medium: (width:1024,height:768,url:"boiling-over/004_m.webp",),
+            small: (width:320,height:240,url:"boiling-over/004_s.webp",),
+            thumb: (width:256,height:256,url:"boiling-over/004_t.webp",),
+        ),
+    )),
+    tags: {
+        "creek": (
+            name: "Creek",
+            photos: [5,13,14,15,16,17,18,20,21,],
+        ),
+        "jeep": (
+            name: "Jeep",
+            photos: [9,],
+        ),
+        "karney-creek": (
+            name: "Karney Creek",
+            photos: [5,],
+        ),
+        "butterfly": (
+            name: "Butterfly",
+            photos: [6,],
+        ),
+        "dirt-road": (
+            name: "Dirt Road",
+            photos: [3,],
+        ),
+        "riding": (
+            name: "Riding",
+            photos: [2,11,13,16,18,21,22,],
+        ),
+        "mud": (
+            name: "Mud",
+            photos: [10,],
+        ),
+        "gas-station": (
+            name: "Gas Station",
+            photos: [1,],
+        ),
+        "jeep-wrangler": (
+            name: "Jeep Wrangler",
+            photos: [9,],
+        ),
+        "close-up": (
+            name: "Close-up",
+            photos: [17,],
+        ),
+        "dirt-path": (
+            name: "Dirt Path",
+            photos: [10,11,12,21,22,],
+        ),
+        "ktm-500-xc-w": (
+            name: "KTM 500 XC-W",
+            photos: [1,4,8,9,12,15,],
+        ),
+        "garage": (
+            name: "Garage",
+            photos: [8,9,],
+        ),
+        "daggett-creek": (
+            name: "Daggett Creek",
+            photos: [13,14,15,16,17,18,20,21,],
+        ),
+        "bee": (
+            name: "Bee",
+            photos: [17,],
+        ),
+        "husqvarna-te-450": (
+            name: "Husqvarna TE 450",
+            photos: [2,4,11,12,13,16,18,20,21,22,],
+        ),
+        "insect": (
+            name: "Insect",
+            photos: [6,17,],
+        ),
+        "boise-ridge-road": (
+            name: "Boise Ridge Road",
+            photos: [3,],
+        ),
+        "motorcycle": (
+            name: "Motorcycle",
+            photos: [1,2,4,8,9,11,12,13,15,16,18,20,21,22,],
+        ),
+        "moss": (
+            name: "Moss",
+            photos: [5,19,],
+        ),
+        "boise-ridge": (
+            name: "Boise Ridge",
+            photos: [22,],
+        ),
+        "path": (
+            name: "Path",
+            photos: [10,11,12,21,22,],
+        ),
+    },
+)
