@@ -2,7 +2,7 @@
     next_path: Some("brother-ride-2008/camping-with-cows"),
     prev_path: None,
     happened_on: Some("2008-09-19T18:38:53-06:00"),
-    as_of: 1588452075,
+    as_of: 1588542983,
     photo_count: 20,
     photo_locations: [
         (-116.25593, 47.011353),
@@ -33,21 +33,37 @@
         ),
     )),
     tags: {
-        "mountain": (
-            name: "Mountain",
-            photos: [5,9,12,16,18,],
+        "bar": (
+            name: "Bar",
+            photos: [2,3,],
         ),
-        "night": (
-            name: "Night",
-            photos: [13,14,15,16,17,18,19,20,],
+        "yamaha-xt-250": (
+            name: "Yamaha XT 250",
+            photos: [1,2,3,6,10,11,12,13,],
         ),
-        "motorcycle": (
-            name: "Motorcycle",
-            photos: [1,2,3,4,6,9,10,11,12,13,],
+        "stars": (
+            name: "Stars",
+            photos: [16,17,],
         ),
-        "power-line": (
-            name: "Power Line",
+        "store": (
+            name: "Store",
             photos: [3,],
+        ),
+        "lake": (
+            name: "Lake",
+            photos: [9,],
+        ),
+        "outcrop": (
+            name: "Outcrop",
+            photos: [6,9,10,11,12,],
+        ),
+        "tent": (
+            name: "Tent",
+            photos: [12,13,15,],
+        ),
+        "lichen": (
+            name: "Lichen",
+            photos: [6,],
         ),
         "bmw-r1200gs-adventure": (
             name: "BMW R1200GS Adventure",
@@ -57,89 +73,73 @@
             name: "Honda CRF 230L",
             photos: [1,2,3,6,9,10,11,12,13,],
         ),
-        "store": (
-            name: "Store",
-            photos: [3,],
-        ),
-        "outcrop": (
-            name: "Outcrop",
-            photos: [6,9,10,11,12,],
-        ),
-        "smoking": (
-            name: "Smoking",
-            photos: [6,8,],
-        ),
-        "lake": (
-            name: "Lake",
-            photos: [9,],
-        ),
-        "spider": (
-            name: "Spider",
-            photos: [7,],
-        ),
-        "dirt-road": (
-            name: "Dirt Road",
-            photos: [4,5,],
-        ),
-        "bar": (
-            name: "Bar",
-            photos: [2,3,],
-        ),
-        "yamaha-xt-250": (
-            name: "Yamaha XT 250",
-            photos: [1,2,3,6,10,11,12,13,],
+        "sign": (
+            name: "Sign",
+            photos: [2,],
         ),
         "je-stop": (
             name: "J&E Stop",
             photos: [2,3,],
         ),
-        "dancing": (
-            name: "Dancing",
+        "beer": (
+            name: "Beer",
+            photos: [13,14,],
+        ),
+        "fire": (
+            name: "Fire",
+            photos: [13,14,15,20,],
+        ),
+        "gesturing": (
+            name: "Gesturing",
             photos: [15,],
         ),
-        "stars": (
-            name: "Stars",
-            photos: [16,17,],
+        "mountain": (
+            name: "Mountain",
+            photos: [5,9,12,16,18,],
+        ),
+        "memorial": (
+            name: "Memorial",
+            photos: [6,],
+        ),
+        "night": (
+            name: "Night",
+            photos: [13,14,15,16,17,18,19,20,],
+        ),
+        "spider": (
+            name: "Spider",
+            photos: [7,],
         ),
         "restaurant": (
             name: "Restaurant",
+            photos: [3,],
+        ),
+        "smoke": (
+            name: "Smoke",
+            photos: [18,],
+        ),
+        "dirt-road": (
+            name: "Dirt Road",
+            photos: [4,5,],
+        ),
+        "smoking": (
+            name: "Smoking",
+            photos: [6,8,],
+        ),
+        "power-line": (
+            name: "Power Line",
             photos: [3,],
         ),
         "moon": (
             name: "Moon",
             photos: [18,],
         ),
-        "smoke": (
-            name: "Smoke",
-            photos: [18,],
+        "motorcycle": (
+            name: "Motorcycle",
+            photos: [1,2,3,4,6,9,10,11,12,13,],
         ),
-        "tent": (
-            name: "Tent",
-            photos: [12,13,15,],
-        ),
-        "memorial": (
-            name: "Memorial",
-            photos: [6,],
-        ),
-        "sign": (
-            name: "Sign",
-            photos: [2,],
-        ),
-        "beer": (
-            name: "Beer",
-            photos: [13,14,],
-        ),
-        "gesturing": (
-            name: "Gesturing",
+        "dancing": (
+            name: "Dancing",
             photos: [15,],
-        ),
-        "lichen": (
-            name: "Lichen",
-            photos: [6,],
-        ),
-        "fire": (
-            name: "Fire",
-            photos: [13,14,15,20,],
         ),
     },
 )
