@@ -2,7 +2,7 @@
     next_path: None,
     prev_path: Some("boiling-over"),
     happened_on: Some("2019-03-29T16:58:56-06:00"),
-    as_of: 1588542983,
+    as_of: 1588604204,
     photo_count: 33,
     photo_locations: [
         (-116.234604, 43.375103),
@@ -41,64 +41,56 @@
     cover_photo: Some((
         index: 3,
         size: (
-            large: (width:2048,height:1366,url:"bruneaus-red-light-district/003_l.webp",),
-            medium: (width:1024,height:683,url:"bruneaus-red-light-district/003_m.webp",),
-            small: (width:320,height:213,url:"bruneaus-red-light-district/003_s.webp",),
-            thumb: (width:256,height:256,url:"bruneaus-red-light-district/003_t.webp",),
+            large: (width:2048,height:1366,name:"003_l.webp",),
+            medium: (width:1024,height:683,name:"003_m.webp",),
+            small: (width:320,height:213,name:"003_s.webp",),
+            thumb: (width:256,height:256,name:"003_t.webp",),
         ),
     )),
     tags: {
-        "c-j-strike-reservoir": (
-            name: "C. J. Strike Reservoir",
-            photos: [3,4,5,8,11,],
-        ),
-        "sign": (
-            name: "Sign",
-            photos: [32,],
-        ),
-        "ladder": (
-            name: "Ladder",
-            photos: [13,],
-        ),
-        "tool": (
-            name: "Tool",
-            photos: [13,],
-        ),
-        "dry-plant": (
-            name: "Dry Plant",
-            photos: [1,2,9,15,16,17,24,29,],
-        ),
-        "state-park": (
-            name: "State Park",
-            photos: [13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,],
-        ),
-        "telescope": (
-            name: "Telescope",
-            photos: [13,14,],
-        ),
         "binoculars": (
             name: "Binoculars",
             photos: [13,],
         ),
-        "highway": (
-            name: "Highway",
-            photos: [31,],
+        "bruneau-dunes-state-park": (
+            name: "Bruneau Dunes State Park",
+            photos: [13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,],
         ),
-        "river": (
-            name: "River",
-            photos: [9,10,11,],
+        "bumot-motorcycle-luggage": (
+            name: "BUMOT Motorcycle Luggage",
+            photos: [20,],
         ),
-        "power-line": (
-            name: "Power Line",
-            photos: [31,],
+        "c-j-strike-reservoir": (
+            name: "C. J. Strike Reservoir",
+            photos: [3,4,5,8,11,],
         ),
         "cliff": (
             name: "Cliff",
             photos: [9,11,],
         ),
-        "tent": (
-            name: "Tent",
-            photos: [19,],
+        "dirt-road": (
+            name: "Dirt Road",
+            photos: [9,],
+        ),
+        "dry-plant": (
+            name: "Dry Plant",
+            photos: [1,2,9,15,16,17,24,29,],
+        ),
+        "fence": (
+            name: "Fence",
+            photos: [31,],
+        ),
+        "gate": (
+            name: "Gate",
+            photos: [1,2,],
+        ),
+        "gravel-road": (
+            name: "Gravel Road",
+            photos: [33,],
+        ),
+        "highway": (
+            name: "Highway",
+            photos: [31,],
         ),
         "hiking": (
             name: "Hiking",
@@ -108,77 +100,85 @@
             name: "KTM 1290 Super Adventure R",
             photos: [1,3,11,20,],
         ),
-        "gate": (
-            name: "Gate",
-            photos: [1,2,],
-        ),
-        "bruneau-dunes-state-park": (
-            name: "Bruneau Dunes State Park",
-            photos: [13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,],
-        ),
-        "reservoir": (
-            name: "Reservoir",
-            photos: [3,4,5,8,11,],
-        ),
-        "wire-gate": (
-            name: "Wire Gate",
-            photos: [1,2,],
-        ),
-        "sand-dune": (
-            name: "Sand Dune",
-            photos: [18,23,24,25,26,27,28,29,30,],
-        ),
-        "motorcycle": (
-            name: "Motorcycle",
-            photos: [1,3,11,20,],
-        ),
-        "dirt-road": (
-            name: "Dirt Road",
-            photos: [9,],
-        ),
-        "tumbleweed": (
-            name: "Tumbleweed",
-            photos: [1,2,9,15,16,17,24,29,],
-        ),
-        "photographing": (
-            name: "Photographing",
-            photos: [25,],
-        ),
-        "simco-road": (
-            name: "Simco Road",
-            photos: [31,],
-        ),
-        "stars": (
-            name: "Stars",
-            photos: [19,21,22,],
-        ),
-        "snake-river": (
-            name: "Snake River",
-            photos: [9,10,11,],
-        ),
-        "bumot-motorcycle-luggage": (
-            name: "BUMOT Motorcycle Luggage",
-            photos: [20,],
-        ),
-        "fence": (
-            name: "Fence",
-            photos: [31,],
+        "ladder": (
+            name: "Ladder",
+            photos: [13,],
         ),
         "lichen": (
             name: "Lichen",
             photos: [5,6,10,12,],
         ),
-        "picnic-table": (
-            name: "Picnic Table",
-            photos: [13,20,],
+        "motorcycle": (
+            name: "Motorcycle",
+            photos: [1,3,11,20,],
         ),
         "night": (
             name: "Night",
             photos: [13,14,19,20,21,22,],
         ),
-        "gravel-road": (
-            name: "Gravel Road",
-            photos: [33,],
+        "photographing": (
+            name: "Photographing",
+            photos: [25,],
+        ),
+        "picnic-table": (
+            name: "Picnic Table",
+            photos: [13,20,],
+        ),
+        "power-line": (
+            name: "Power Line",
+            photos: [31,],
+        ),
+        "reservoir": (
+            name: "Reservoir",
+            photos: [3,4,5,8,11,],
+        ),
+        "river": (
+            name: "River",
+            photos: [9,10,11,],
+        ),
+        "sand-dune": (
+            name: "Sand Dune",
+            photos: [18,23,24,25,26,27,28,29,30,],
+        ),
+        "sign": (
+            name: "Sign",
+            photos: [32,],
+        ),
+        "simco-road": (
+            name: "Simco Road",
+            photos: [31,],
+        ),
+        "snake-river": (
+            name: "Snake River",
+            photos: [9,10,11,],
+        ),
+        "stars": (
+            name: "Stars",
+            photos: [19,21,22,],
+        ),
+        "state-park": (
+            name: "State Park",
+            photos: [13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,],
+        ),
+        "telescope": (
+            name: "Telescope",
+            photos: [13,14,],
+        ),
+        "tent": (
+            name: "Tent",
+            photos: [19,],
+        ),
+        "tool": (
+            name: "Tool",
+            photos: [13,],
+        ),
+        "tumbleweed": (
+            name: "Tumbleweed",
+            photos: [1,2,9,15,16,17,24,29,],
+        ),
+        "wire-gate": (
+            name: "Wire Gate",
+            photos: [1,2,],
         ),
     },
 )

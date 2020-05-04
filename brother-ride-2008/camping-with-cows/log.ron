@@ -2,7 +2,7 @@
     next_path: Some("brother-ride-2008/cold-ride-home"),
     prev_path: Some("brother-ride-2008/party-on-crater-peak"),
     happened_on: Some("2008-09-20T07:25:49-06:00"),
-    as_of: 1588542983,
+    as_of: 1588604203,
     photo_count: 21,
     photo_locations: [
         (-116.24964, 47.01909),
@@ -27,89 +27,13 @@
     cover_photo: Some((
         index: 20,
         size: (
-            large: (width:2048,height:1330,url:"brother-ride-2008/camping-with-cows/020_l.webp",),
-            medium: (width:1024,height:665,url:"brother-ride-2008/camping-with-cows/020_m.webp",),
-            small: (width:320,height:208,url:"brother-ride-2008/camping-with-cows/020_s.webp",),
-            thumb: (width:256,height:256,url:"brother-ride-2008/camping-with-cows/020_t.webp",),
+            large: (width:2048,height:1330,name:"020_l.webp",),
+            medium: (width:1024,height:665,name:"020_m.webp",),
+            small: (width:320,height:208,name:"020_s.webp",),
+            thumb: (width:256,height:256,name:"020_t.webp",),
         ),
     )),
     tags: {
-        "mountain": (
-            name: "Mountain",
-            photos: [5,6,11,],
-        ),
-        "sign": (
-            name: "Sign",
-            photos: [7,],
-        ),
-        "fire": (
-            name: "Fire",
-            photos: [2,3,4,6,13,14,19,20,],
-        ),
-        "river": (
-            name: "River",
-            photos: [13,14,15,],
-        ),
-        "tent": (
-            name: "Tent",
-            photos: [1,2,3,4,6,19,20,21,],
-        ),
-        "honda-crf-230l": (
-            name: "Honda CRF 230L",
-            photos: [4,6,7,8,9,12,21,],
-        ),
-        "photographing": (
-            name: "Photographing",
-            photos: [9,],
-        ),
-        "bmw-r1200gs-adventure": (
-            name: "BMW R1200GS Adventure",
-            photos: [2,4,6,7,8,9,12,16,18,21,],
-        ),
-        "night": (
-            name: "Night",
-            photos: [19,20,21,],
-        ),
-        "throwing-rocks": (
-            name: "Throwing Rocks",
-            photos: [14,15,],
-        ),
-        "sunrise": (
-            name: "Sunrise",
-            photos: [5,],
-        ),
-        "outcrop": (
-            name: "Outcrop",
-            photos: [10,],
-        ),
-        "camp-chair": (
-            name: "Camp Chair",
-            photos: [2,4,],
-        ),
-        "coffee": (
-            name: "Coffee",
-            photos: [1,2,3,4,],
-        ),
-        "drinking": (
-            name: "Drinking",
-            photos: [2,4,],
-        ),
-        "motorcycle": (
-            name: "Motorcycle",
-            photos: [2,4,6,7,8,9,12,16,17,18,21,],
-        ),
-        "yamaha-xt-250": (
-            name: "Yamaha XT 250",
-            photos: [4,6,7,8,9,12,16,17,18,],
-        ),
-        "chair": (
-            name: "Chair",
-            photos: [2,4,],
-        ),
-        "throwing": (
-            name: "Throwing",
-            photos: [14,15,],
-        ),
         "ailing": (
             name: "Ailing",
             photos: [16,],
@@ -118,13 +42,89 @@
             name: "Beer",
             photos: [1,19,20,],
         ),
+        "bmw-r1200gs-adventure": (
+            name: "BMW R1200GS Adventure",
+            photos: [2,4,6,7,8,9,12,16,18,21,],
+        ),
+        "camp-chair": (
+            name: "Camp Chair",
+            photos: [2,4,],
+        ),
+        "chair": (
+            name: "Chair",
+            photos: [2,4,],
+        ),
+        "coffee": (
+            name: "Coffee",
+            photos: [1,2,3,4,],
+        ),
         "dirt-road": (
             name: "Dirt Road",
             photos: [7,9,11,16,17,18,],
         ),
+        "drinking": (
+            name: "Drinking",
+            photos: [2,4,],
+        ),
+        "fire": (
+            name: "Fire",
+            photos: [2,3,4,6,13,14,19,20,],
+        ),
+        "honda-crf-230l": (
+            name: "Honda CRF 230L",
+            photos: [4,6,7,8,9,12,21,],
+        ),
+        "motorcycle": (
+            name: "Motorcycle",
+            photos: [2,4,6,7,8,9,12,16,17,18,21,],
+        ),
+        "mountain": (
+            name: "Mountain",
+            photos: [5,6,11,],
+        ),
+        "night": (
+            name: "Night",
+            photos: [19,20,21,],
+        ),
+        "outcrop": (
+            name: "Outcrop",
+            photos: [10,],
+        ),
+        "photographing": (
+            name: "Photographing",
+            photos: [9,],
+        ),
         "rain": (
             name: "Rain",
             photos: [19,21,],
+        ),
+        "river": (
+            name: "River",
+            photos: [13,14,15,],
+        ),
+        "sign": (
+            name: "Sign",
+            photos: [7,],
+        ),
+        "sunrise": (
+            name: "Sunrise",
+            photos: [5,],
+        ),
+        "tent": (
+            name: "Tent",
+            photos: [1,2,3,4,6,19,20,21,],
+        ),
+        "throwing": (
+            name: "Throwing",
+            photos: [14,15,],
+        ),
+        "throwing-rocks": (
+            name: "Throwing Rocks",
+            photos: [14,15,],
+        ),
+        "yamaha-xt-250": (
+            name: "Yamaha XT 250",
+            photos: [4,6,7,8,9,12,16,17,18,],
         ),
     },
 )

@@ -2,7 +2,7 @@
     next_path: Some("boiling-over"),
     prev_path: Some("brother-ride-2008/cold-ride-home"),
     happened_on: Some("2013-10-05T11:00:13-06:00"),
-    as_of: 1588542983,
+    as_of: 1588604203,
     photo_count: 37,
     photo_locations: [
         (-115.79197, 43.831882),
@@ -44,156 +44,156 @@
     cover_photo: Some((
         index: 9,
         size: (
-            large: (width:2048,height:1331,url:"atlanta-loop/009_l.webp",),
-            medium: (width:1024,height:666,url:"atlanta-loop/009_m.webp",),
-            small: (width:320,height:208,url:"atlanta-loop/009_s.webp",),
-            thumb: (width:256,height:256,url:"atlanta-loop/009_t.webp",),
+            large: (width:2048,height:1331,name:"009_l.webp",),
+            medium: (width:1024,height:666,name:"009_m.webp",),
+            small: (width:320,height:208,name:"009_s.webp",),
+            thumb: (width:256,height:256,name:"009_t.webp",),
         ),
     )),
     tags: {
+        "aspen": (
+            name: "Aspen",
+            photos: [19,],
+        ),
+        "autumn": (
+            name: "Autumn",
+            photos: [19,],
+        ),
+        "bee-hive": (
+            name: "Bee Hive",
+            photos: [11,],
+        ),
+        "boise-river": (
+            name: "Boise River",
+            photos: [6,7,8,],
+        ),
+        "bridge": (
+            name: "Bridge",
+            photos: [6,],
+        ),
+        "church": (
+            name: "Church",
+            photos: [37,],
+        ),
+        "creek": (
+            name: "Creek",
+            photos: [4,5,18,],
+        ),
         "dirt-path": (
             name: "Dirt Path",
             photos: [27,28,29,30,31,35,],
         ),
-        "thanksgiving": (
-            name: "Thanksgiving",
+        "dirt-road": (
+            name: "Dirt Road",
+            photos: [6,9,10,11,15,19,22,23,24,],
+        ),
+        "downtown": (
+            name: "Downtown",
             photos: [37,],
         ),
-        "reflection": (
-            name: "Reflection",
-            photos: [5,],
+        "elk-creek": (
+            name: "Elk Creek",
+            photos: [18,],
+        ),
+        "fence": (
+            name: "Fence",
+            photos: [24,],
+        ),
+        "flag": (
+            name: "Flag",
+            photos: [13,],
+        ),
+        "greylock-mountain": (
+            name: "Greylock Mountain",
+            photos: [37,],
+        ),
+        "history": (
+            name: "History",
+            photos: [12,13,14,],
+        ),
+        "horse": (
+            name: "Horse",
+            photos: [12,],
+        ),
+        "ktm-500-xc-w": (
+            name: "KTM 500 XC-W",
+            photos: [1,11,27,],
+        ),
+        "map": (
+            name: "Map",
+            photos: [2,],
+        ),
+        "middle-fork-of-the-boise": (
+            name: "Middle Fork of the Boise",
+            photos: [8,],
+        ),
+        "motorcycle": (
+            name: "Motorcycle",
+            photos: [1,10,11,27,29,30,33,],
         ),
         "mountain": (
             name: "Mountain",
             photos: [37,],
         ),
-        "aspen": (
-            name: "Aspen",
-            photos: [19,],
+        "north-fork-of-the-boise": (
+            name: "North Fork of the Boise",
+            photos: [6,7,],
         ),
-        "downtown": (
-            name: "Downtown",
+        "outcrop": (
+            name: "Outcrop",
+            photos: [34,],
+        ),
+        "parking-lot": (
+            name: "Parking Lot",
+            photos: [1,],
+        ),
+        "path": (
+            name: "Path",
+            photos: [27,28,29,30,31,35,],
+        ),
+        "power-line": (
+            name: "Power Line",
+            photos: [23,37,],
+        ),
+        "rabbit-creek": (
+            name: "Rabbit Creek",
+            photos: [4,5,],
+        ),
+        "reflection": (
+            name: "Reflection",
+            photos: [5,],
+        ),
+        "river": (
+            name: "River",
+            photos: [6,7,8,],
+        ),
+        "screenshot": (
+            name: "Screenshot",
+            photos: [2,],
+        ),
+        "sign": (
+            name: "Sign",
+            photos: [11,13,17,23,24,37,],
+        ),
+        "snow": (
+            name: "Snow",
+            photos: [20,21,23,],
+        ),
+        "suzuki-dr-z-400s": (
+            name: "Suzuki DR-Z 400S",
+            photos: [10,11,29,30,33,],
+        ),
+        "thanksgiving": (
+            name: "Thanksgiving",
             photos: [37,],
         ),
         "tree": (
             name: "Tree",
             photos: [19,],
         ),
-        "creek": (
-            name: "Creek",
-            photos: [4,5,18,],
-        ),
-        "outcrop": (
-            name: "Outcrop",
-            photos: [34,],
-        ),
-        "bee-hive": (
-            name: "Bee Hive",
-            photos: [11,],
-        ),
-        "history": (
-            name: "History",
-            photos: [12,13,14,],
-        ),
-        "boise-river": (
-            name: "Boise River",
-            photos: [6,7,8,],
-        ),
-        "motorcycle": (
-            name: "Motorcycle",
-            photos: [1,10,11,27,29,30,33,],
-        ),
-        "path": (
-            name: "Path",
-            photos: [27,28,29,30,31,35,],
-        ),
-        "map": (
-            name: "Map",
-            photos: [2,],
-        ),
-        "ktm-500-xc-w": (
-            name: "KTM 500 XC-W",
-            photos: [1,11,27,],
-        ),
-        "autumn": (
-            name: "Autumn",
-            photos: [19,],
-        ),
-        "power-line": (
-            name: "Power Line",
-            photos: [23,37,],
-        ),
-        "fence": (
-            name: "Fence",
-            photos: [24,],
-        ),
-        "dirt-road": (
-            name: "Dirt Road",
-            photos: [6,9,10,11,15,19,22,23,24,],
-        ),
-        "parking-lot": (
-            name: "Parking Lot",
-            photos: [1,],
-        ),
-        "sign": (
-            name: "Sign",
-            photos: [11,13,17,23,24,37,],
-        ),
-        "bridge": (
-            name: "Bridge",
-            photos: [6,],
-        ),
-        "flag": (
-            name: "Flag",
-            photos: [13,],
-        ),
         "waterfall": (
             name: "Waterfall",
             photos: [18,],
-        ),
-        "snow": (
-            name: "Snow",
-            photos: [20,21,23,],
-        ),
-        "horse": (
-            name: "Horse",
-            photos: [12,],
-        ),
-        "greylock-mountain": (
-            name: "Greylock Mountain",
-            photos: [37,],
-        ),
-        "screenshot": (
-            name: "Screenshot",
-            photos: [2,],
-        ),
-        "church": (
-            name: "Church",
-            photos: [37,],
-        ),
-        "suzuki-dr-z-400s": (
-            name: "Suzuki DR-Z 400S",
-            photos: [10,11,29,30,33,],
-        ),
-        "middle-fork-of-the-boise": (
-            name: "Middle Fork of the Boise",
-            photos: [8,],
-        ),
-        "rabbit-creek": (
-            name: "Rabbit Creek",
-            photos: [4,5,],
-        ),
-        "elk-creek": (
-            name: "Elk Creek",
-            photos: [18,],
-        ),
-        "river": (
-            name: "River",
-            photos: [6,7,8,],
-        ),
-        "north-fork-of-the-boise": (
-            name: "North Fork of the Boise",
-            photos: [6,7,],
         ),
     },
 )

@@ -2,7 +2,7 @@
     next_path: Some("brother-ride-2008/camping-with-cows"),
     prev_path: None,
     happened_on: Some("2008-09-19T18:38:53-06:00"),
-    as_of: 1588542983,
+    as_of: 1588604203,
     photo_count: 20,
     photo_locations: [
         (-116.25593, 47.011353),
@@ -26,10 +26,10 @@
     cover_photo: Some((
         index: 15,
         size: (
-            large: (width:2048,height:1646,url:"brother-ride-2008/party-on-crater-peak/015_l.webp",),
-            medium: (width:1024,height:823,url:"brother-ride-2008/party-on-crater-peak/015_m.webp",),
-            small: (width:320,height:257,url:"brother-ride-2008/party-on-crater-peak/015_s.webp",),
-            thumb: (width:256,height:256,url:"brother-ride-2008/party-on-crater-peak/015_t.webp",),
+            large: (width:2048,height:1646,name:"015_l.webp",),
+            medium: (width:1024,height:823,name:"015_m.webp",),
+            small: (width:320,height:257,name:"015_s.webp",),
+            thumb: (width:256,height:256,name:"015_t.webp",),
         ),
     )),
     tags: {
@@ -37,53 +37,21 @@
             name: "Bar",
             photos: [2,3,],
         ),
-        "yamaha-xt-250": (
-            name: "Yamaha XT 250",
-            photos: [1,2,3,6,10,11,12,13,],
-        ),
-        "stars": (
-            name: "Stars",
-            photos: [16,17,],
-        ),
-        "store": (
-            name: "Store",
-            photos: [3,],
-        ),
-        "lake": (
-            name: "Lake",
-            photos: [9,],
-        ),
-        "outcrop": (
-            name: "Outcrop",
-            photos: [6,9,10,11,12,],
-        ),
-        "tent": (
-            name: "Tent",
-            photos: [12,13,15,],
-        ),
-        "lichen": (
-            name: "Lichen",
-            photos: [6,],
+        "beer": (
+            name: "Beer",
+            photos: [13,14,],
         ),
         "bmw-r1200gs-adventure": (
             name: "BMW R1200GS Adventure",
             photos: [1,3,4,6,9,10,11,12,13,],
         ),
-        "honda-crf-230l": (
-            name: "Honda CRF 230L",
-            photos: [1,2,3,6,9,10,11,12,13,],
+        "dancing": (
+            name: "Dancing",
+            photos: [15,],
         ),
-        "sign": (
-            name: "Sign",
-            photos: [2,],
-        ),
-        "je-stop": (
-            name: "J&E Stop",
-            photos: [2,3,],
-        ),
-        "beer": (
-            name: "Beer",
-            photos: [13,14,],
+        "dirt-road": (
+            name: "Dirt Road",
+            photos: [4,5,],
         ),
         "fire": (
             name: "Fire",
@@ -93,41 +61,25 @@
             name: "Gesturing",
             photos: [15,],
         ),
-        "mountain": (
-            name: "Mountain",
-            photos: [5,9,12,16,18,],
+        "honda-crf-230l": (
+            name: "Honda CRF 230L",
+            photos: [1,2,3,6,9,10,11,12,13,],
+        ),
+        "je-stop": (
+            name: "J&E Stop",
+            photos: [2,3,],
+        ),
+        "lake": (
+            name: "Lake",
+            photos: [9,],
+        ),
+        "lichen": (
+            name: "Lichen",
+            photos: [6,],
         ),
         "memorial": (
             name: "Memorial",
             photos: [6,],
-        ),
-        "night": (
-            name: "Night",
-            photos: [13,14,15,16,17,18,19,20,],
-        ),
-        "spider": (
-            name: "Spider",
-            photos: [7,],
-        ),
-        "restaurant": (
-            name: "Restaurant",
-            photos: [3,],
-        ),
-        "smoke": (
-            name: "Smoke",
-            photos: [18,],
-        ),
-        "dirt-road": (
-            name: "Dirt Road",
-            photos: [4,5,],
-        ),
-        "smoking": (
-            name: "Smoking",
-            photos: [6,8,],
-        ),
-        "power-line": (
-            name: "Power Line",
-            photos: [3,],
         ),
         "moon": (
             name: "Moon",
@@ -137,9 +89,57 @@
             name: "Motorcycle",
             photos: [1,2,3,4,6,9,10,11,12,13,],
         ),
-        "dancing": (
-            name: "Dancing",
-            photos: [15,],
+        "mountain": (
+            name: "Mountain",
+            photos: [5,9,12,16,18,],
+        ),
+        "night": (
+            name: "Night",
+            photos: [13,14,15,16,17,18,19,20,],
+        ),
+        "outcrop": (
+            name: "Outcrop",
+            photos: [6,9,10,11,12,],
+        ),
+        "power-line": (
+            name: "Power Line",
+            photos: [3,],
+        ),
+        "restaurant": (
+            name: "Restaurant",
+            photos: [3,],
+        ),
+        "sign": (
+            name: "Sign",
+            photos: [2,],
+        ),
+        "smoke": (
+            name: "Smoke",
+            photos: [18,],
+        ),
+        "smoking": (
+            name: "Smoking",
+            photos: [6,8,],
+        ),
+        "spider": (
+            name: "Spider",
+            photos: [7,],
+        ),
+        "stars": (
+            name: "Stars",
+            photos: [16,17,],
+        ),
+        "store": (
+            name: "Store",
+            photos: [3,],
+        ),
+        "tent": (
+            name: "Tent",
+            photos: [12,13,15,],
+        ),
+        "yamaha-xt-250": (
+            name: "Yamaha XT 250",
+            photos: [1,2,3,6,10,11,12,13,],
         ),
     },
 )
