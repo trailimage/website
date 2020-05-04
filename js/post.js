@@ -136,6 +136,9 @@ window.addEventListener('DOMContentLoaded', () => {
                 delayLoad: 300,
             };
             this.images = images;
+            this.largeImageKey = window.devicePixelRatio > 1.7
+                ? "big"
+                : "src";
             if (window.IntersectionObserver) {
                 this.observe();
             }
@@ -191,7 +194,7 @@ window.addEventListener('DOMContentLoaded', () => {
             this.images.forEach((el) => this.observer.observe(el));
         }
         loadImage(el) {
-            el.src = el.dataset["src"];
+            el.src = el.dataset[this.largeImageKey];
         }
     }
     new LazyLoader(photos);
