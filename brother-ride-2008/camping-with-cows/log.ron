@@ -2,7 +2,7 @@
     next_path: Some("brother-ride-2008/cold-ride-home"),
     prev_path: Some("brother-ride-2008/party-on-crater-peak"),
     happened_on: Some("2008-09-20T07:25:49-06:00"),
-    as_of: 1588604203,
+    as_of: 1588964156,
     photo_count: 21,
     photo_locations: [
         (-116.24964, 47.01909),
@@ -30,7 +30,7 @@
             large: (width:2048,height:1330,name:"020_l.webp",),
             medium: (width:1024,height:665,name:"020_m.webp",),
             small: (width:320,height:208,name:"020_s.webp",),
-            thumb: (width:256,height:256,name:"020_t.webp",),
+            thumb: (width:128,height:128,name:"020_t.webp",),
         ),
     )),
     tags: {

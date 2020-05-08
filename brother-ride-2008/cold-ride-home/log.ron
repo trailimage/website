@@ -2,7 +2,7 @@
     next_path: Some("atlanta-loop"),
     prev_path: Some("brother-ride-2008/camping-with-cows"),
     happened_on: Some("2008-09-21T09:15:19-06:00"),
-    as_of: 1588604203,
+    as_of: 1588964156,
     photo_count: 16,
     photo_locations: [
         (-116.9921, 46.4616),
@@ -16,7 +16,7 @@
             large: (width:1499,height:2048,name:"010_l.webp",),
             medium: (width:750,height:1024,name:"010_m.webp",),
             small: (width:234,height:320,name:"010_s.webp",),
-            thumb: (width:256,height:256,name:"010_t.webp",),
+            thumb: (width:128,height:128,name:"010_t.webp",),
         ),
     )),
     tags: {

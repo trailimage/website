@@ -54,8 +54,8 @@ urls = [
 ]
     [owner.image]
     url = "img/face5_full.jpg"
-    width = 300
-    height = 300
+    width = 2048
+    height = 2048
 
 [style]
 # Maximum pixel height of static maps displayed with post summaries
@@ -64,8 +64,7 @@ inline_map_height = 200
 content_width = 650
 
 [category]
-# Match name of "what" category to transportation mode that may in turn
-# match an icon
+# Match name of "what" category to transportation mode used to show icon
 what_regex = [
     ["motorcycle", "(KTM|BMW|Honda)"],
     ["bicycle", "bicycle"],
@@ -101,10 +100,19 @@ remove_tags = [
 ]
 
    [photo.size]
-   large = 2048
-   medium = 1024
-   small = 320
-   thumb = 256
+      # images may be rendered at double their displayed resolution for high
+      # density screens
+      [photo.size.render]
+      large = 2048
+      medium = 1024
+      small = 640
+      thumb = 256
+
+      [photo.size.display]
+      large = 2048
+      medium = 1024
+      small = 320
+      thumb = 128
 
    [photo.exif]
    # source to target text replacements

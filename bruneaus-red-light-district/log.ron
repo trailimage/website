@@ -2,7 +2,7 @@
     next_path: None,
     prev_path: Some("boiling-over"),
     happened_on: Some("2019-03-29T16:58:56-06:00"),
-    as_of: 1588604204,
+    as_of: 1588964156,
     photo_count: 33,
     photo_locations: [
         (-116.234604, 43.375103),
@@ -44,7 +44,7 @@
             large: (width:2048,height:1366,name:"003_l.webp",),
             medium: (width:1024,height:683,name:"003_m.webp",),
             small: (width:320,height:213,name:"003_s.webp",),
-            thumb: (width:256,height:256,name:"003_t.webp",),
+            thumb: (width:128,height:128,name:"003_t.webp",),
         ),
     )),
     tags: {

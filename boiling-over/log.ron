@@ -1,8 +1,8 @@
 (
     next_path: Some("bruneaus-red-light-district"),
-    prev_path: Some("atlanta-loop"),
+    prev_path: Some("danskin-clouds"),
     happened_on: Some("2017-08-06T12:44:04-06:00"),
-    as_of: 1588604203,
+    as_of: 1588964156,
     photo_count: 22,
     photo_locations: [
         (-116.17306, 43.579193),
@@ -32,7 +32,7 @@
             large: (width:2048,height:1536,name:"004_l.webp",),
             medium: (width:1024,height:768,name:"004_m.webp",),
             small: (width:320,height:240,name:"004_s.webp",),
-            thumb: (width:256,height:256,name:"004_t.webp",),
+            thumb: (width:128,height:128,name:"004_t.webp",),
         ),
     )),
     tags: {

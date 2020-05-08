@@ -6,7 +6,7 @@
         ),
         "algae": (
             name: "Algae",
-            photos: [(post_path:"ruminations",photo_index:4,),],
+            photos: [(post_path:"ruminations",photo_index:7,),],
         ),
         "aspen": (
             name: "Aspen",
@@ -58,7 +58,7 @@
         ),
         "boisephotographer": (
             name: "#boisephotographer",
-            photos: [(post_path:"ruminations",photo_index:8,),],
+            photos: [(post_path:"ruminations",photo_index:10,),],
         ),
         "bridge": (
             name: "Bridge",
@@ -88,6 +88,10 @@
             name: "Camping",
             photos: [(post_path:"brother-ride-2008/cold-ride-home",photo_index:1,),],
         ),
+        "cave": (
+            name: "Cave",
+            photos: [(post_path:"danskin-clouds",photo_index:29,),],
+        ),
         "chair": (
             name: "Chair",
             photos: [(post_path:"brother-ride-2008/camping-with-cows",photo_index:2,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:4,),],
@@ -98,15 +102,19 @@
         ),
         "cliff": (
             name: "Cliff",
-            photos: [(post_path:"bruneaus-red-light-district",photo_index:9,),(post_path:"bruneaus-red-light-district",photo_index:11,),],
+            photos: [(post_path:"bruneaus-red-light-district",photo_index:9,),(post_path:"bruneaus-red-light-district",photo_index:11,),(post_path:"danskin-clouds",photo_index:21,),(post_path:"danskin-clouds",photo_index:25,),],
         ),
         "climbing": (
             name: "Climbing",
-            photos: [(post_path:"ruminations",photo_index:7,),],
+            photos: [(post_path:"ruminations",photo_index:2,),],
         ),
         "close-up": (
             name: "Close-up",
             photos: [(post_path:"boiling-over",photo_index:17,),],
+        ),
+        "clouds": (
+            name: "Clouds",
+            photos: [(post_path:"danskin-clouds",photo_index:31,),(post_path:"danskin-clouds",photo_index:32,),(post_path:"danskin-clouds",photo_index:33,),(post_path:"danskin-clouds",photo_index:35,),(post_path:"danskin-clouds",photo_index:36,),(post_path:"danskin-clouds",photo_index:37,),(post_path:"danskin-clouds",photo_index:38,),(post_path:"danskin-clouds",photo_index:40,),],
         ),
         "coffee": (
             name: "Coffee",
@@ -116,9 +124,13 @@
             name: "Cooking",
             photos: [(post_path:"brother-ride-2008/cold-ride-home",photo_index:4,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:8,),],
         ),
+        "cow": (
+            name: "Cow",
+            photos: [(post_path:"danskin-clouds",photo_index:40,),],
+        ),
         "creek": (
             name: "Creek",
-            photos: [(post_path:"atlanta-loop",photo_index:4,),(post_path:"atlanta-loop",photo_index:5,),(post_path:"atlanta-loop",photo_index:18,),(post_path:"boiling-over",photo_index:5,),(post_path:"boiling-over",photo_index:13,),(post_path:"boiling-over",photo_index:14,),(post_path:"boiling-over",photo_index:15,),(post_path:"boiling-over",photo_index:16,),(post_path:"boiling-over",photo_index:17,),(post_path:"boiling-over",photo_index:18,),(post_path:"boiling-over",photo_index:20,),(post_path:"boiling-over",photo_index:21,),],
+            photos: [(post_path:"atlanta-loop",photo_index:4,),(post_path:"atlanta-loop",photo_index:5,),(post_path:"atlanta-loop",photo_index:18,),(post_path:"boiling-over",photo_index:5,),(post_path:"boiling-over",photo_index:13,),(post_path:"boiling-over",photo_index:14,),(post_path:"boiling-over",photo_index:15,),(post_path:"boiling-over",photo_index:16,),(post_path:"boiling-over",photo_index:17,),(post_path:"boiling-over",photo_index:18,),(post_path:"boiling-over",photo_index:20,),(post_path:"boiling-over",photo_index:21,),(post_path:"danskin-clouds",photo_index:8,),(post_path:"danskin-clouds",photo_index:13,),(post_path:"danskin-clouds",photo_index:14,),(post_path:"danskin-clouds",photo_index:16,),(post_path:"danskin-clouds",photo_index:23,),(post_path:"danskin-clouds",photo_index:24,),(post_path:"danskin-clouds",photo_index:28,),(post_path:"danskin-clouds",photo_index:29,),(post_path:"danskin-clouds",photo_index:30,),],
         ),
         "daggett-creek": (
             name: "Daggett Creek",
@@ -130,7 +142,7 @@
         ),
         "dirt-path": (
             name: "Dirt Path",
-            photos: [(post_path:"atlanta-loop",photo_index:27,),(post_path:"atlanta-loop",photo_index:28,),(post_path:"atlanta-loop",photo_index:29,),(post_path:"atlanta-loop",photo_index:30,),(post_path:"atlanta-loop",photo_index:31,),(post_path:"atlanta-loop",photo_index:35,),(post_path:"boiling-over",photo_index:10,),(post_path:"boiling-over",photo_index:11,),(post_path:"boiling-over",photo_index:12,),(post_path:"boiling-over",photo_index:21,),(post_path:"boiling-over",photo_index:22,),],
+            photos: [(post_path:"atlanta-loop",photo_index:27,),(post_path:"atlanta-loop",photo_index:28,),(post_path:"atlanta-loop",photo_index:29,),(post_path:"atlanta-loop",photo_index:30,),(post_path:"atlanta-loop",photo_index:31,),(post_path:"atlanta-loop",photo_index:35,),(post_path:"boiling-over",photo_index:10,),(post_path:"boiling-over",photo_index:11,),(post_path:"boiling-over",photo_index:12,),(post_path:"boiling-over",photo_index:21,),(post_path:"boiling-over",photo_index:22,),(post_path:"danskin-clouds",photo_index:2,),(post_path:"danskin-clouds",photo_index:3,),(post_path:"danskin-clouds",photo_index:5,),(post_path:"danskin-clouds",photo_index:6,),(post_path:"danskin-clouds",photo_index:7,),(post_path:"danskin-clouds",photo_index:8,),(post_path:"danskin-clouds",photo_index:10,),(post_path:"danskin-clouds",photo_index:17,),(post_path:"danskin-clouds",photo_index:19,),(post_path:"danskin-clouds",photo_index:20,),(post_path:"danskin-clouds",photo_index:21,),(post_path:"danskin-clouds",photo_index:31,),(post_path:"danskin-clouds",photo_index:33,),(post_path:"danskin-clouds",photo_index:34,),(post_path:"danskin-clouds",photo_index:36,),(post_path:"danskin-clouds",photo_index:37,),(post_path:"danskin-clouds",photo_index:38,),],
         ),
         "dirt-road": (
             name: "Dirt Road",
@@ -138,7 +150,7 @@
         ),
         "dock": (
             name: "Dock",
-            photos: [(post_path:"ruminations",photo_index:8,),],
+            photos: [(post_path:"ruminations",photo_index:10,),],
         ),
         "downtown": (
             name: "Downtown",
@@ -150,7 +162,7 @@
         ),
         "dry-plant": (
             name: "Dry Plant",
-            photos: [(post_path:"bruneaus-red-light-district",photo_index:1,),(post_path:"bruneaus-red-light-district",photo_index:2,),(post_path:"bruneaus-red-light-district",photo_index:9,),(post_path:"bruneaus-red-light-district",photo_index:15,),(post_path:"bruneaus-red-light-district",photo_index:16,),(post_path:"bruneaus-red-light-district",photo_index:17,),(post_path:"bruneaus-red-light-district",photo_index:24,),(post_path:"bruneaus-red-light-district",photo_index:29,),(post_path:"ruminations",photo_index:5,),(post_path:"ruminations",photo_index:6,),],
+            photos: [(post_path:"bruneaus-red-light-district",photo_index:1,),(post_path:"bruneaus-red-light-district",photo_index:2,),(post_path:"bruneaus-red-light-district",photo_index:9,),(post_path:"bruneaus-red-light-district",photo_index:15,),(post_path:"bruneaus-red-light-district",photo_index:16,),(post_path:"bruneaus-red-light-district",photo_index:17,),(post_path:"bruneaus-red-light-district",photo_index:24,),(post_path:"bruneaus-red-light-district",photo_index:29,),(post_path:"ruminations",photo_index:8,),(post_path:"ruminations",photo_index:9,),],
         ),
         "elk-creek": (
             name: "Elk Creek",
@@ -158,15 +170,19 @@
         ),
         "fence": (
             name: "Fence",
-            photos: [(post_path:"atlanta-loop",photo_index:24,),(post_path:"bruneaus-red-light-district",photo_index:31,),],
+            photos: [(post_path:"atlanta-loop",photo_index:24,),(post_path:"bruneaus-red-light-district",photo_index:31,),(post_path:"danskin-clouds",photo_index:39,),],
         ),
         "fire": (
             name: "Fire",
-            photos: [(post_path:"brother-ride-2008/camping-with-cows",photo_index:2,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:3,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:4,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:6,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:13,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:14,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:19,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:20,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:1,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:2,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:3,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:7,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:13,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:14,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:15,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:20,),(post_path:"ruminations",photo_index:10,),(post_path:"ruminations",photo_index:11,),],
+            photos: [(post_path:"brother-ride-2008/camping-with-cows",photo_index:2,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:3,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:4,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:6,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:13,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:14,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:19,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:20,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:1,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:2,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:3,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:7,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:13,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:14,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:15,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:20,),(post_path:"ruminations",photo_index:1,),(post_path:"ruminations",photo_index:3,),],
         ),
         "flag": (
             name: "Flag",
-            photos: [(post_path:"atlanta-loop",photo_index:13,),(post_path:"ruminations",photo_index:3,),],
+            photos: [(post_path:"atlanta-loop",photo_index:13,),(post_path:"ruminations",photo_index:6,),],
+        ),
+        "fog": (
+            name: "Fog",
+            photos: [(post_path:"danskin-clouds",photo_index:32,),(post_path:"danskin-clouds",photo_index:34,),(post_path:"danskin-clouds",photo_index:38,),(post_path:"danskin-clouds",photo_index:39,),],
         ),
         "garage": (
             name: "Garage",
@@ -200,6 +216,10 @@
             name: "Hiking",
             photos: [(post_path:"bruneaus-red-light-district",photo_index:23,),(post_path:"bruneaus-red-light-district",photo_index:24,),(post_path:"bruneaus-red-light-district",photo_index:28,),],
         ),
+        "hill-climb": (
+            name: "Hill Climb",
+            photos: [(post_path:"danskin-clouds",photo_index:7,),],
+        ),
         "history": (
             name: "History",
             photos: [(post_path:"atlanta-loop",photo_index:12,),(post_path:"atlanta-loop",photo_index:13,),(post_path:"atlanta-loop",photo_index:14,),],
@@ -218,7 +238,7 @@
         ),
         "ice": (
             name: "Ice",
-            photos: [(post_path:"ruminations",photo_index:9,),],
+            photos: [(post_path:"ruminations",photo_index:11,),],
         ),
         "insect": (
             name: "Insect",
@@ -244,9 +264,13 @@
             name: "KTM 1290 Super Adventure R",
             photos: [(post_path:"bruneaus-red-light-district",photo_index:1,),(post_path:"bruneaus-red-light-district",photo_index:3,),(post_path:"bruneaus-red-light-district",photo_index:11,),(post_path:"bruneaus-red-light-district",photo_index:20,),],
         ),
+        "ktm-250-xc": (
+            name: "KTM 250 XC",
+            photos: [(post_path:"danskin-clouds",photo_index:1,),(post_path:"danskin-clouds",photo_index:2,),(post_path:"danskin-clouds",photo_index:6,),(post_path:"danskin-clouds",photo_index:9,),(post_path:"danskin-clouds",photo_index:12,),(post_path:"danskin-clouds",photo_index:15,),(post_path:"danskin-clouds",photo_index:19,),(post_path:"danskin-clouds",photo_index:22,),(post_path:"danskin-clouds",photo_index:36,),],
+        ),
         "ktm-500-xc-w": (
             name: "KTM 500 XC-W",
-            photos: [(post_path:"atlanta-loop",photo_index:1,),(post_path:"atlanta-loop",photo_index:11,),(post_path:"atlanta-loop",photo_index:27,),(post_path:"boiling-over",photo_index:1,),(post_path:"boiling-over",photo_index:4,),(post_path:"boiling-over",photo_index:8,),(post_path:"boiling-over",photo_index:9,),(post_path:"boiling-over",photo_index:12,),(post_path:"boiling-over",photo_index:15,),],
+            photos: [(post_path:"atlanta-loop",photo_index:1,),(post_path:"atlanta-loop",photo_index:11,),(post_path:"atlanta-loop",photo_index:27,),(post_path:"boiling-over",photo_index:1,),(post_path:"boiling-over",photo_index:4,),(post_path:"boiling-over",photo_index:8,),(post_path:"boiling-over",photo_index:9,),(post_path:"boiling-over",photo_index:12,),(post_path:"boiling-over",photo_index:15,),(post_path:"danskin-clouds",photo_index:1,),(post_path:"danskin-clouds",photo_index:6,),(post_path:"danskin-clouds",photo_index:9,),(post_path:"danskin-clouds",photo_index:12,),(post_path:"danskin-clouds",photo_index:20,),(post_path:"danskin-clouds",photo_index:22,),],
         ),
         "ladder": (
             name: "Ladder",
@@ -254,11 +278,11 @@
         ),
         "lake": (
             name: "Lake",
-            photos: [(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:9,),(post_path:"ruminations",photo_index:8,),(post_path:"ruminations",photo_index:9,),],
+            photos: [(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:9,),(post_path:"ruminations",photo_index:10,),(post_path:"ruminations",photo_index:11,),],
         ),
         "leaves": (
             name: "Leaves",
-            photos: [(post_path:"ruminations",photo_index:4,),],
+            photos: [(post_path:"danskin-clouds",photo_index:8,),(post_path:"danskin-clouds",photo_index:13,),(post_path:"danskin-clouds",photo_index:16,),(post_path:"danskin-clouds",photo_index:25,),(post_path:"ruminations",photo_index:7,),],
         ),
         "lichen": (
             name: "Lichen",
@@ -270,7 +294,7 @@
         ),
         "mccallidaho": (
             name: "#mccallidaho",
-            photos: [(post_path:"ruminations",photo_index:8,),],
+            photos: [(post_path:"ruminations",photo_index:10,),],
         ),
         "memorial": (
             name: "Memorial",
@@ -286,11 +310,11 @@
         ),
         "moss": (
             name: "Moss",
-            photos: [(post_path:"boiling-over",photo_index:5,),(post_path:"boiling-over",photo_index:19,),],
+            photos: [(post_path:"boiling-over",photo_index:5,),(post_path:"boiling-over",photo_index:19,),(post_path:"danskin-clouds",photo_index:13,),(post_path:"danskin-clouds",photo_index:14,),(post_path:"danskin-clouds",photo_index:23,),],
         ),
         "motorcycle": (
             name: "Motorcycle",
-            photos: [(post_path:"atlanta-loop",photo_index:1,),(post_path:"atlanta-loop",photo_index:10,),(post_path:"atlanta-loop",photo_index:11,),(post_path:"atlanta-loop",photo_index:27,),(post_path:"atlanta-loop",photo_index:29,),(post_path:"atlanta-loop",photo_index:30,),(post_path:"atlanta-loop",photo_index:33,),(post_path:"boiling-over",photo_index:1,),(post_path:"boiling-over",photo_index:2,),(post_path:"boiling-over",photo_index:4,),(post_path:"boiling-over",photo_index:8,),(post_path:"boiling-over",photo_index:9,),(post_path:"boiling-over",photo_index:11,),(post_path:"boiling-over",photo_index:12,),(post_path:"boiling-over",photo_index:13,),(post_path:"boiling-over",photo_index:15,),(post_path:"boiling-over",photo_index:16,),(post_path:"boiling-over",photo_index:18,),(post_path:"boiling-over",photo_index:20,),(post_path:"boiling-over",photo_index:21,),(post_path:"boiling-over",photo_index:22,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:2,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:4,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:6,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:7,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:8,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:9,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:12,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:16,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:17,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:18,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:21,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:2,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:6,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:9,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:10,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:11,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:12,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:13,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:14,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:16,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:1,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:2,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:3,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:4,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:6,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:9,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:10,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:11,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:12,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:13,),(post_path:"bruneaus-red-light-district",photo_index:1,),(post_path:"bruneaus-red-light-district",photo_index:3,),(post_path:"bruneaus-red-light-district",photo_index:11,),(post_path:"bruneaus-red-light-district",photo_index:20,),],
+            photos: [(post_path:"atlanta-loop",photo_index:1,),(post_path:"atlanta-loop",photo_index:10,),(post_path:"atlanta-loop",photo_index:11,),(post_path:"atlanta-loop",photo_index:27,),(post_path:"atlanta-loop",photo_index:29,),(post_path:"atlanta-loop",photo_index:30,),(post_path:"atlanta-loop",photo_index:33,),(post_path:"boiling-over",photo_index:1,),(post_path:"boiling-over",photo_index:2,),(post_path:"boiling-over",photo_index:4,),(post_path:"boiling-over",photo_index:8,),(post_path:"boiling-over",photo_index:9,),(post_path:"boiling-over",photo_index:11,),(post_path:"boiling-over",photo_index:12,),(post_path:"boiling-over",photo_index:13,),(post_path:"boiling-over",photo_index:15,),(post_path:"boiling-over",photo_index:16,),(post_path:"boiling-over",photo_index:18,),(post_path:"boiling-over",photo_index:20,),(post_path:"boiling-over",photo_index:21,),(post_path:"boiling-over",photo_index:22,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:2,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:4,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:6,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:7,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:8,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:9,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:12,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:16,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:17,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:18,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:21,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:2,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:6,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:9,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:10,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:11,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:12,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:13,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:14,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:16,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:1,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:2,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:3,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:4,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:6,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:9,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:10,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:11,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:12,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:13,),(post_path:"bruneaus-red-light-district",photo_index:1,),(post_path:"bruneaus-red-light-district",photo_index:3,),(post_path:"bruneaus-red-light-district",photo_index:11,),(post_path:"bruneaus-red-light-district",photo_index:20,),(post_path:"danskin-clouds",photo_index:1,),(post_path:"danskin-clouds",photo_index:2,),(post_path:"danskin-clouds",photo_index:6,),(post_path:"danskin-clouds",photo_index:9,),(post_path:"danskin-clouds",photo_index:12,),(post_path:"danskin-clouds",photo_index:15,),(post_path:"danskin-clouds",photo_index:19,),(post_path:"danskin-clouds",photo_index:20,),(post_path:"danskin-clouds",photo_index:22,),(post_path:"danskin-clouds",photo_index:36,),],
         ),
         "mountain": (
             name: "Mountain",
@@ -302,7 +326,7 @@
         ),
         "night": (
             name: "Night",
-            photos: [(post_path:"brother-ride-2008/camping-with-cows",photo_index:19,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:20,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:21,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:13,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:14,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:15,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:16,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:17,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:18,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:19,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:20,),(post_path:"bruneaus-red-light-district",photo_index:13,),(post_path:"bruneaus-red-light-district",photo_index:14,),(post_path:"bruneaus-red-light-district",photo_index:19,),(post_path:"bruneaus-red-light-district",photo_index:20,),(post_path:"bruneaus-red-light-district",photo_index:21,),(post_path:"bruneaus-red-light-district",photo_index:22,),(post_path:"ruminations",photo_index:10,),(post_path:"ruminations",photo_index:11,),],
+            photos: [(post_path:"brother-ride-2008/camping-with-cows",photo_index:19,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:20,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:21,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:13,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:14,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:15,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:16,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:17,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:18,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:19,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:20,),(post_path:"bruneaus-red-light-district",photo_index:13,),(post_path:"bruneaus-red-light-district",photo_index:14,),(post_path:"bruneaus-red-light-district",photo_index:19,),(post_path:"bruneaus-red-light-district",photo_index:20,),(post_path:"bruneaus-red-light-district",photo_index:21,),(post_path:"bruneaus-red-light-district",photo_index:22,),(post_path:"ruminations",photo_index:1,),(post_path:"ruminations",photo_index:3,),],
         ),
         "north-fork-of-the-boise": (
             name: "North Fork of the Boise",
@@ -310,11 +334,11 @@
         ),
         "outcrop": (
             name: "Outcrop",
-            photos: [(post_path:"atlanta-loop",photo_index:34,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:10,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:6,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:9,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:10,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:11,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:12,),],
+            photos: [(post_path:"atlanta-loop",photo_index:34,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:10,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:6,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:9,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:10,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:11,),(post_path:"brother-ride-2008/party-on-crater-peak",photo_index:12,),(post_path:"danskin-clouds",photo_index:18,),(post_path:"danskin-clouds",photo_index:32,),(post_path:"danskin-clouds",photo_index:34,),(post_path:"danskin-clouds",photo_index:37,),],
         ),
         "park": (
             name: "Park",
-            photos: [(post_path:"ruminations",photo_index:2,),],
+            photos: [(post_path:"ruminations",photo_index:5,),],
         ),
         "parking-lot": (
             name: "Parking Lot",
@@ -322,15 +346,15 @@
         ),
         "path": (
             name: "Path",
-            photos: [(post_path:"atlanta-loop",photo_index:27,),(post_path:"atlanta-loop",photo_index:28,),(post_path:"atlanta-loop",photo_index:29,),(post_path:"atlanta-loop",photo_index:30,),(post_path:"atlanta-loop",photo_index:31,),(post_path:"atlanta-loop",photo_index:35,),(post_path:"boiling-over",photo_index:10,),(post_path:"boiling-over",photo_index:11,),(post_path:"boiling-over",photo_index:12,),(post_path:"boiling-over",photo_index:21,),(post_path:"boiling-over",photo_index:22,),],
+            photos: [(post_path:"atlanta-loop",photo_index:27,),(post_path:"atlanta-loop",photo_index:28,),(post_path:"atlanta-loop",photo_index:29,),(post_path:"atlanta-loop",photo_index:30,),(post_path:"atlanta-loop",photo_index:31,),(post_path:"atlanta-loop",photo_index:35,),(post_path:"boiling-over",photo_index:10,),(post_path:"boiling-over",photo_index:11,),(post_path:"boiling-over",photo_index:12,),(post_path:"boiling-over",photo_index:21,),(post_path:"boiling-over",photo_index:22,),(post_path:"danskin-clouds",photo_index:2,),(post_path:"danskin-clouds",photo_index:3,),(post_path:"danskin-clouds",photo_index:5,),(post_path:"danskin-clouds",photo_index:6,),(post_path:"danskin-clouds",photo_index:7,),(post_path:"danskin-clouds",photo_index:8,),(post_path:"danskin-clouds",photo_index:10,),(post_path:"danskin-clouds",photo_index:17,),(post_path:"danskin-clouds",photo_index:19,),(post_path:"danskin-clouds",photo_index:20,),(post_path:"danskin-clouds",photo_index:21,),(post_path:"danskin-clouds",photo_index:31,),(post_path:"danskin-clouds",photo_index:33,),(post_path:"danskin-clouds",photo_index:34,),(post_path:"danskin-clouds",photo_index:36,),(post_path:"danskin-clouds",photo_index:37,),(post_path:"danskin-clouds",photo_index:38,),],
         ),
         "payette-lake": (
             name: "Payette Lake",
-            photos: [(post_path:"ruminations",photo_index:8,),(post_path:"ruminations",photo_index:9,),],
+            photos: [(post_path:"ruminations",photo_index:10,),(post_path:"ruminations",photo_index:11,),],
         ),
         "photographing": (
             name: "Photographing",
-            photos: [(post_path:"brother-ride-2008/camping-with-cows",photo_index:9,),(post_path:"bruneaus-red-light-district",photo_index:25,),(post_path:"ruminations",photo_index:3,),(post_path:"ruminations",photo_index:8,),],
+            photos: [(post_path:"brother-ride-2008/camping-with-cows",photo_index:9,),(post_path:"bruneaus-red-light-district",photo_index:25,),(post_path:"ruminations",photo_index:6,),(post_path:"ruminations",photo_index:10,),],
         ),
         "picnic-table": (
             name: "Picnic Table",
@@ -346,11 +370,11 @@
         ),
         "rain": (
             name: "Rain",
-            photos: [(post_path:"brother-ride-2008/camping-with-cows",photo_index:19,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:21,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:1,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:2,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:3,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:6,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:8,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:9,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:10,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:11,),],
+            photos: [(post_path:"brother-ride-2008/camping-with-cows",photo_index:19,),(post_path:"brother-ride-2008/camping-with-cows",photo_index:21,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:1,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:2,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:3,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:6,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:8,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:9,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:10,),(post_path:"brother-ride-2008/cold-ride-home",photo_index:11,),(post_path:"danskin-clouds",photo_index:22,),(post_path:"danskin-clouds",photo_index:30,),(post_path:"danskin-clouds",photo_index:31,),],
         ),
         "reflection": (
             name: "Reflection",
-            photos: [(post_path:"atlanta-loop",photo_index:5,),],
+            photos: [(post_path:"atlanta-loop",photo_index:5,),(post_path:"danskin-clouds",photo_index:13,),],
         ),
         "reservoir": (
             name: "Reservoir",
@@ -362,7 +386,7 @@
         ),
         "riding": (
             name: "Riding",
-            photos: [(post_path:"boiling-over",photo_index:2,),(post_path:"boiling-over",photo_index:11,),(post_path:"boiling-over",photo_index:13,),(post_path:"boiling-over",photo_index:16,),(post_path:"boiling-over",photo_index:18,),(post_path:"boiling-over",photo_index:21,),(post_path:"boiling-over",photo_index:22,),],
+            photos: [(post_path:"boiling-over",photo_index:2,),(post_path:"boiling-over",photo_index:11,),(post_path:"boiling-over",photo_index:13,),(post_path:"boiling-over",photo_index:16,),(post_path:"boiling-over",photo_index:18,),(post_path:"boiling-over",photo_index:21,),(post_path:"boiling-over",photo_index:22,),(post_path:"danskin-clouds",photo_index:2,),(post_path:"danskin-clouds",photo_index:19,),],
         ),
         "river": (
             name: "River",
@@ -370,7 +394,7 @@
         ),
         "rumination": (
             name: "Rumination",
-            photos: [(post_path:"ruminations",photo_index:1,),(post_path:"ruminations",photo_index:2,),(post_path:"ruminations",photo_index:3,),(post_path:"ruminations",photo_index:4,),(post_path:"ruminations",photo_index:5,),(post_path:"ruminations",photo_index:6,),(post_path:"ruminations",photo_index:7,),],
+            photos: [(post_path:"ruminations",photo_index:2,),(post_path:"ruminations",photo_index:4,),(post_path:"ruminations",photo_index:5,),(post_path:"ruminations",photo_index:6,),(post_path:"ruminations",photo_index:7,),(post_path:"ruminations",photo_index:8,),(post_path:"ruminations",photo_index:9,),],
         ),
         "sand-dune": (
             name: "Sand Dune",
@@ -402,7 +426,7 @@
         ),
         "snow": (
             name: "Snow",
-            photos: [(post_path:"atlanta-loop",photo_index:20,),(post_path:"atlanta-loop",photo_index:21,),(post_path:"atlanta-loop",photo_index:23,),(post_path:"ruminations",photo_index:8,),(post_path:"ruminations",photo_index:9,),(post_path:"ruminations",photo_index:10,),(post_path:"ruminations",photo_index:11,),],
+            photos: [(post_path:"atlanta-loop",photo_index:20,),(post_path:"atlanta-loop",photo_index:21,),(post_path:"atlanta-loop",photo_index:23,),(post_path:"ruminations",photo_index:1,),(post_path:"ruminations",photo_index:3,),(post_path:"ruminations",photo_index:10,),(post_path:"ruminations",photo_index:11,),],
         ),
         "spider": (
             name: "Spider",
@@ -426,11 +450,15 @@
         ),
         "sunset": (
             name: "Sunset",
-            photos: [(post_path:"ruminations",photo_index:8,),(post_path:"ruminations",photo_index:9,),],
+            photos: [(post_path:"ruminations",photo_index:10,),(post_path:"ruminations",photo_index:11,),],
         ),
         "suzuki-dr-z-400s": (
             name: "Suzuki DR-Z 400S",
             photos: [(post_path:"atlanta-loop",photo_index:10,),(post_path:"atlanta-loop",photo_index:11,),(post_path:"atlanta-loop",photo_index:29,),(post_path:"atlanta-loop",photo_index:30,),(post_path:"atlanta-loop",photo_index:33,),],
+        ),
+        "taken-by-tony": (
+            name: "Taken by Tony",
+            photos: [(post_path:"danskin-clouds",photo_index:35,),],
         ),
         "telescope": (
             name: "Telescope",
@@ -464,9 +492,17 @@
             name: "Tumbleweed",
             photos: [(post_path:"bruneaus-red-light-district",photo_index:1,),(post_path:"bruneaus-red-light-district",photo_index:2,),(post_path:"bruneaus-red-light-district",photo_index:9,),(post_path:"bruneaus-red-light-district",photo_index:15,),(post_path:"bruneaus-red-light-district",photo_index:16,),(post_path:"bruneaus-red-light-district",photo_index:17,),(post_path:"bruneaus-red-light-district",photo_index:24,),(post_path:"bruneaus-red-light-district",photo_index:29,),],
         ),
+        "walking": (
+            name: "Walking",
+            photos: [(post_path:"danskin-clouds",photo_index:20,),],
+        ),
         "waterfall": (
             name: "Waterfall",
-            photos: [(post_path:"atlanta-loop",photo_index:18,),(post_path:"ruminations",photo_index:4,),],
+            photos: [(post_path:"atlanta-loop",photo_index:18,),(post_path:"danskin-clouds",photo_index:27,),(post_path:"danskin-clouds",photo_index:28,),(post_path:"danskin-clouds",photo_index:30,),(post_path:"ruminations",photo_index:7,),],
+        ),
+        "willow-creek": (
+            name: "Willow Creek",
+            photos: [(post_path:"danskin-clouds",photo_index:13,),(post_path:"danskin-clouds",photo_index:14,),(post_path:"danskin-clouds",photo_index:16,),(post_path:"danskin-clouds",photo_index:23,),(post_path:"danskin-clouds",photo_index:24,),(post_path:"danskin-clouds",photo_index:28,),(post_path:"danskin-clouds",photo_index:29,),(post_path:"danskin-clouds",photo_index:30,),],
         ),
         "wire-gate": (
             name: "Wire Gate",

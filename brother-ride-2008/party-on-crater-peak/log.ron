@@ -2,7 +2,7 @@
     next_path: Some("brother-ride-2008/camping-with-cows"),
     prev_path: None,
     happened_on: Some("2008-09-19T18:38:53-06:00"),
-    as_of: 1588604203,
+    as_of: 1588964156,
     photo_count: 20,
     photo_locations: [
         (-116.25593, 47.011353),
@@ -29,7 +29,7 @@
             large: (width:2048,height:1646,name:"015_l.webp",),
             medium: (width:1024,height:823,name:"015_m.webp",),
             small: (width:320,height:257,name:"015_s.webp",),
-            thumb: (width:256,height:256,name:"015_t.webp",),
+            thumb: (width:128,height:128,name:"015_t.webp",),
         ),
     )),
     tags: {
