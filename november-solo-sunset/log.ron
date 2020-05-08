@@ -1,0 +1,57 @@
+(
+    next_path: None,
+    prev_path: Some("bruneaus-red-light-district"),
+    happened_on: Some("2019-11-17T17:59:23-06:00"),
+    as_of: 1588971982,
+    photo_count: 12,
+    photo_locations: [
+        (-116.14726, 43.650223),
+        (-116.14722, 43.650234),
+        (-116.107544, 43.652996),
+        (-116.09983, 43.666065),
+        (-116.071266, 43.656956),
+    ],
+    cover_photo: Some((
+        index: 11,
+        size: (
+            large: (width:2048,height:1365,name:"011_l.webp",),
+            medium: (width:1024,height:683,name:"011_m.webp",),
+            small: (width:320,height:213,name:"011_s.webp",),
+            thumb: (width:128,height:128,name:"011_t.webp",),
+        ),
+    )),
+    tags: {
+        "boise-ridge": (
+            name: "Boise Ridge",
+            photos: [1,4,],
+        ),
+        "dirt-path": (
+            name: "Dirt Path",
+            photos: [2,3,4,6,7,8,],
+        ),
+        "foothills": (
+            name: "Foothills",
+            photos: [4,6,7,8,9,10,],
+        ),
+        "ktm-1290-super-adventure-r": (
+            name: "KTM 1290 Super Adventure R",
+            photos: [3,7,11,],
+        ),
+        "motorcycle": (
+            name: "Motorcycle",
+            photos: [3,7,11,],
+        ),
+        "night": (
+            name: "Night",
+            photos: [11,12,],
+        ),
+        "path": (
+            name: "Path",
+            photos: [2,3,4,6,7,8,],
+        ),
+        "sunset": (
+            name: "Sunset",
+            photos: [6,8,9,10,11,12,],
+        ),
+    },
+)

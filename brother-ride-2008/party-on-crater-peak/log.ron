@@ -2,7 +2,7 @@
     next_path: Some("brother-ride-2008/camping-with-cows"),
     prev_path: None,
     happened_on: Some("2008-09-19T18:38:53-06:00"),
-    as_of: 1588964156,
+    as_of: 1588971982,
     photo_count: 20,
     photo_locations: [
         (-116.25593, 47.011353),

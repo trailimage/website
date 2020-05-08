@@ -2,7 +2,7 @@
     next_path: Some("boiling-over"),
     prev_path: Some("atlanta-loop"),
     happened_on: Some("2016-10-30T13:09:51-06:00"),
-    as_of: 1588964156,
+    as_of: 1588971982,
     photo_count: 40,
     photo_locations: [
         (-115.92082, 43.49984),

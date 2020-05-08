@@ -2,7 +2,7 @@
     next_path: Some("atlanta-loop"),
     prev_path: Some("brother-ride-2008/camping-with-cows"),
     happened_on: Some("2008-09-21T09:15:19-06:00"),
-    as_of: 1588964156,
+    as_of: 1588971982,
     photo_count: 16,
     photo_locations: [
         (-116.9921, 46.4616),

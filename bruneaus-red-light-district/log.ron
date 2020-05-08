@@ -1,8 +1,8 @@
 (
-    next_path: None,
+    next_path: Some("november-solo-sunset"),
     prev_path: Some("boiling-over"),
     happened_on: Some("2019-03-29T16:58:56-06:00"),
-    as_of: 1588964156,
+    as_of: 1588971982,
     photo_count: 33,
     photo_locations: [
         (-116.234604, 43.375103),

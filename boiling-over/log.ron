@@ -2,7 +2,7 @@
     next_path: Some("bruneaus-red-light-district"),
     prev_path: Some("danskin-clouds"),
     happened_on: Some("2017-08-06T12:44:04-06:00"),
-    as_of: 1588964156,
+    as_of: 1588971982,
     photo_count: 22,
     photo_locations: [
         (-116.17306, 43.579193),
